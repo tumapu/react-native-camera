@@ -3,7 +3,7 @@ package com.lwansbrough.RCTCamera;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Matrix;
-import android.support.media.ExifInterface;
+import ;
 import android.util.Base64;
 import android.util.Log;
 
