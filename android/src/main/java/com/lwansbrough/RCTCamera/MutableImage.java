@@ -3,7 +3,6 @@ package com.lwansbrough.RCTCamera;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Matrix;
-import ;
 import android.util.Base64;
 import android.util.Log;
 
@@ -23,6 +22,8 @@ import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
+
+import androidx.exifinterface.media.ExifInterface;
 
 public class MutableImage {
     private static final String TAG = "RNCamera";
